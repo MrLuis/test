@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.deck {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(4, auto);
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  width:10px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px grey solid;
+  background-color: #eee;
+  color:rgb(55, 51, 51);
+  font-size: 1.9em;
+  margin: 2px;
+  padding: 40px;
+  cursor: pointer;
+}
