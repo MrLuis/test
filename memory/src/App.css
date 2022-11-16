@@ -30,3 +30,17 @@
   color:green;
   border-color: green;
 }
+
+.counter{
+  margin: 10px;
+  padding: 5px 20px;
+  font-size: 1.4em;
+}
+
+.correct_count{
+  color: green;
+}
+
+.incorrect_count{
+  color: red;
+}
