@@ -17,11 +17,16 @@
   width:10px;
   height: 40px;
   border-radius: 5px;
-  border: 1px grey solid;
+  border: 5px grey solid;
   background-color: #eee;
   color:rgb(55, 51, 51);
   font-size: 1.9em;
   margin: 2px;
   padding: 40px;
   cursor: pointer;
+}
+
+.found{
+  color:green;
+  border-color: green;
 }
