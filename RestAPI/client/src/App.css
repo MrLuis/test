@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+ 
+}
+
+
+table{
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px;
+  
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+
+tr:hover {background-color: rgb(84, 84, 84);}
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #464b4a;
+  color: white;
+}
