@@ -14,3 +14,15 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+.buttons-div{
+  display: flex;
+  justify-content: end;
+  gap: 15px;
+}
+
+button{
+  padding: 5px 15px;
+}
+
+tr:nth-child(odd) {background: #111}

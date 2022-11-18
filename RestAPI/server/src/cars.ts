@@ -15,7 +15,7 @@ export interface Car {
 }
 
 
-export const Cars : Car[] =  [
+const InternalCars : Car[] =  [
    {  "Id":undefined,
       "Name":"chevrolet chevelle malibu",
       "Miles_per_Gallon":18,
@@ -4483,6 +4483,10 @@ export const Cars : Car[] =  [
       "Origin":"USA"
    }
 ]
+
+
+export const Cars = InternalCars.sort((a:Car, b:Car)=>{return (a.Name>b.Name?1:-1)});
+
 
 // darn dataset didn't have a unique id... smh
 Cars.forEach((car,index) => {car.Id = index});

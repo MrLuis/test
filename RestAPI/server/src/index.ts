@@ -18,17 +18,30 @@ app.get( "/", ( req, res ) => {
 app.get( "/api/cars", ( req, res ) => {
     try {
         const q = ((req.query.q as string) ??'').toLocaleLowerCase();
+        console.log('/api/cars', q);
+        let result  = [];
         if (q !==''){
-            res.json(Cars.filter((car) =>  car.Name.includes(q)));
+            result = Cars.filter((car) =>  car.Name.includes(q))
         }
         else {
-            res.json(Cars);
+            result = Cars;
         }
+
+        res.json(result.map(car => {return {"Id":car.Id, "Name": car.Name, "Year":car.Year,"Origin": car.Origin}}));
 
     } catch (error) {
         console.error('Error on /cars path', error)
     }
 } );
+
+
+
+// define a route handler for the default home page
+app.get( "/api/cars/:id", ( req, res ) => {
+    const parID = parseInt(req.params.id,10);
+    const result  = Cars.filter((car) =>  {return (car.Id === parID)})
+    res.json(result);
+});
 
 app.post( "/cars", ( req, res ) => {
     res.json({message:'post not implemented'} );
