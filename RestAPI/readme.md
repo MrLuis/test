@@ -15,10 +15,10 @@ Detail
 ![Detail screen](https://github.com/MrLuis/test/blob/main/RestAPI/detail.png)
 
 ### Todo
-- [X] Implement Edit
-- [ ] Implement Delete
+- [x] Implement Edit
+- [x] Implement Delete
 - [ ] Server Side Bug (Sometimes the server stop responding)
-- [ ] Upgrade servers typescript engine
+- [ ] Upgrade server's typescript engine
 - [ ] Add some icons
-  - [ ] actions (edit, remove)
+  - [ ] actions (save and remove buttons)
   - [ ] Home (when on detail mode)

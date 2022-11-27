@@ -51,7 +51,6 @@ export default function Car() {
 
     async function handleSave(e: MouseEvent<HTMLButtonElement>  ){
         e.preventDefault;
-        console.log(`http://localhost:8080/api/cars/${carData}`)
 
         const res  = await fetch(`http://localhost:8080/api/cars`,
         {
@@ -62,19 +61,44 @@ export default function Car() {
             method: "POST",
             body: JSON.stringify(carData)
         })
-        .then(function(res1){ console.log(res1) ; return res1})
-        .catch(function(res2){ console.log(res2) })
+        .then(function(res1){ return res1.json()})
+        .catch(function(res2){ console.error(res2) })
         
 
         console.log(res);
-        //const res  = await fetch(`http://localhost:8080/api/cars/${carData}`);
+        if (res.error !== ''){
+            alert(`Error updating record: ${res.error} `)
+        }
+        else {
+            alert('Record saved!');
+            navigate('/');
+        }
     }
 
-    function handleRemove(e: MouseEvent<HTMLButtonElement>  ){
+    async function handleRemove(e: MouseEvent<HTMLButtonElement>  ){
         e.preventDefault;
         if (confirm('Do you want to remove this record?')){
-            alert("Functionality not implemented... but I'll take you home...");
-            navigate('/');
+           
+            const res  = await fetch(`http://localhost:8080/api/cars/${carData.Id}`,
+            {
+                headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json'
+                },
+                method: "DELETE"
+            })
+            .then(function(res1){ return res1.json()})
+            .catch(function(res2){ console.error(res2) })
+            
+
+            console.log(res);
+            if (res.error !== ''){
+                alert(`Error removing record: ${res.error} `)
+            }
+            else {
+                alert('Record removed!');
+                navigate('/');
+            }
             
         }
     }

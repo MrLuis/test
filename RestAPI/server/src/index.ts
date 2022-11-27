@@ -10,6 +10,7 @@ app.use(cors())
 app.use(express.json());
 
 
+// define a route handler for the default home page
 app.get( "/", ( req, res ) => {
     res.send(`
       <h1>API for cars database</h1>
@@ -37,9 +38,6 @@ app.get( "/api/cars", ( req, res ) => {
     }
 } );
 
-
-
-// define a route handler for the default home page
 app.get( "/api/cars/:id", ( req, res ) => {
     const parID = parseInt(req.params.id,10);
     const result  = Cars.filter((car) =>  {return (car.Id === parID)})
@@ -47,24 +45,19 @@ app.get( "/api/cars/:id", ( req, res ) => {
 });
 
 app.post( "/api/cars", ( req, res ) => {
-
     const carData = req.body as Car;
-
-    console.log('Post',{carData});
-    // const parID = parseInt(req.params.id,10);
     const index = Cars.findIndex((car)=>{ return car.Id === carData.Id;});
     if (index === -1 ){
         res.json({error:'Item not found!'} );
         return;
     }
-
     Cars[index] = carData;
-
     res.json({...carData, error:''});
 } );
 
 
-app.delete( "/api/cars", ( req, res ) => {
+app.delete( "/api/cars/:id", ( req, res ) => {
+
     interface ExpectedParam  {
         id : string | any;
     }
@@ -77,6 +70,7 @@ app.delete( "/api/cars", ( req, res ) => {
         return;
     }
     const carData =  Cars[index];
+    Cars.splice(index,1);
     res.json({ ...carData, error:''} );
 } );
 

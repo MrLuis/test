@@ -6,10 +6,10 @@
   }
   
   
-  table{
+  table {
     border-collapse: collapse;
     width: 100%;
-    margin: 10px;
+    margin: 10px 0;
     
   }
   
@@ -19,7 +19,12 @@
   }
   
   
-  tr:hover {background-color: rgb(84, 84, 84);}
+  tr:nth-child(odd) {background: #111} 
+
+  table.list  tbody  tr:hover {
+    background-color: rgb(50, 50, 50);
+  }
+
   th {
     padding-top: 12px;
     padding-bottom: 12px;

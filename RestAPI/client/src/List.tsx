@@ -35,14 +35,16 @@ function ListCars() {
   return (
     <div className="App">
       <div>
-        <label style={{padding:'10px'}}>Search</label>
-        <input onChange={(e:React.ChangeEvent<HTMLInputElement>)=>{setSearch(e.target.value ?? '' )}} />
-        <table>
-          <thead><tr><th>Name</th><th>Origin</th><th>Year</th><th>Actions</th></tr></thead>
+          <div style={{display:'flex',justifyContent:'right', margin: '20px 0' }}>
+            <label style={{padding:'10px'}}>Search</label>
+            <input onChange={(e:React.ChangeEvent<HTMLInputElement>)=>{setSearch(e.target.value ?? '' )}} />
+          </div>
+        <table className='list'>
+          <thead><tr><th>Name</th><th>Origin</th><th>Year</th></tr></thead>
           <tbody>
           {
             cars.map((car: Car) => {
-              return (<tr key={car.Id}><td><Link to='car' state={{ carId: car.Id}} >{car.Name}</Link></td><td>{car.Origin}</td><td>{car.Year.substring(0,4)}</td><td></td></tr>)
+              return (<tr key={car.Id}><td><Link to='car' state={{ carId: car.Id}} >{car.Name}</Link></td><td>{car.Origin}</td><td>{car.Year.substring(0,4)}</td></tr>)
             })
           }
           </tbody>
