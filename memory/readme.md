@@ -1,7 +1,8 @@
 
-## Memory
+# Memory
 
-This small memory game is writen in ReactJS using Typescript and Vite
+### Description
+This small memory game is writen in ReactJS using Typescript and Vite.
 
 ![Screen](https://github.com/MrLuis/test/blob/main/memory/screen.png)
 
@@ -15,6 +16,6 @@ This small memory game is writen in ReactJS using Typescript and Vite
     * When the card are incorrectly match
     * When the customer completes all cards
     * On mouse hover?
-3. Store on local storage
+* Store on local storage
   * Current game status (App.tsx have the status variable)
   * Wins and losses 
