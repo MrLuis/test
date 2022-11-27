@@ -102,7 +102,7 @@ function App() {
         setCards(currCards);
         setPrevCard(undefined);
 
-        if (currCards.filter((item:card)=> {return item.found === false}).length === 0 ){
+        if (currCards.filter((item:TCard)=> {return item.found === false}).length === 0 ){
           setTimeout(()=>{
             alert('Congrats!!!');
             initCards();
