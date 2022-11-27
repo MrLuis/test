@@ -34,10 +34,7 @@ export default function Car() {
     const { carId } = location.state;
     const [carData, setCarData] = useState<CarData>(InitialRec);
 
-
     const navigate = useNavigate();
-    const handleOnClick = useCallback(() => navigate('/api/cars', {replace: true}), [navigate]);
-  
 
     async function requestData (){
         const res  = await fetch(`http://localhost:8080/api/cars/${carId}`);
@@ -60,7 +57,7 @@ export default function Car() {
         e.preventDefault;
         if (confirm('Do you want to remove this record?')){
             alert("Functionality not implemented... but I'll take you home...");
-            navigate('/', {replace: true});
+            navigate('/');
             
         }
     }
