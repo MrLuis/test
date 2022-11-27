@@ -1,10 +1,13 @@
 import express from "express";
 import cors from "cors";
-import { Cars } from "./cars";
+import { Car, Cars } from "./cars";
+
 
 const app = express();
 const port = 8080; // default port to listen
- app.use(cors())
+
+app.use(cors())
+app.use(express.json());
 
 
 app.get( "/", ( req, res ) => {
@@ -21,7 +24,7 @@ app.get( "/api/cars", ( req, res ) => {
         console.log('/api/cars', q);
         let result  = [];
         if (q !==''){
-            result = Cars.filter((car) =>  car.Name.includes(q))
+            result = Cars.filter((car) =>  car.Name.toLowerCase().includes(q))
         }
         else {
             result = Cars;
@@ -43,13 +46,38 @@ app.get( "/api/cars/:id", ( req, res ) => {
     res.json(result);
 });
 
-app.post( "/cars", ( req, res ) => {
-    res.json({message:'post not implemented'} );
+app.post( "/api/cars", ( req, res ) => {
+
+    const carData = req.body as Car;
+
+    console.log('Post',{carData});
+    // const parID = parseInt(req.params.id,10);
+    const index = Cars.findIndex((car)=>{ return car.Id === carData.Id;});
+    if (index === -1 ){
+        res.json({error:'Item not found!'} );
+        return;
+    }
+
+    Cars[index] = carData;
+
+    res.json({...carData, error:''});
 } );
 
 
-app.delete( "/cars", ( req, res ) => {
-    res.json({message:'delete not implemented'} );
+app.delete( "/api/cars", ( req, res ) => {
+    interface ExpectedParam  {
+        id : string | any;
+    }
+    const params = req.params as ExpectedParam;
+    console.log({params})
+    const parID = parseInt(params.id,10);
+    const index = Cars.findIndex((car)=>{ return car.Id === parID;});
+    if (index === -1 ){
+        res.json({error:'Item not found!'} );
+        return;
+    }
+    const carData =  Cars[index];
+    res.json({ ...carData, error:''} );
 } );
 
 

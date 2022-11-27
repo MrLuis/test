@@ -26,3 +26,12 @@ button{
 }
 
 tr:nth-child(odd) {background: #111}
+
+td > input {
+  width: 96%;
+  height: 20px;
+}
+
+input {
+  padding: 10px 15px;
+}

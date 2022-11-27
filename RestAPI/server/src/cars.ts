@@ -24,7 +24,7 @@ const InternalCars : Car[] =  [
       "Horsepower":130,
       "Weight_in_lbs":3504,
       "Acceleration":12,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -35,7 +35,7 @@ const InternalCars : Car[] =  [
       "Horsepower":165,
       "Weight_in_lbs":3693,
       "Acceleration":11.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -46,7 +46,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3436,
       "Acceleration":11,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -57,7 +57,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3433,
       "Acceleration":12,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -68,7 +68,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":3449,
       "Acceleration":10.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -79,7 +79,7 @@ const InternalCars : Car[] =  [
       "Horsepower":198,
       "Weight_in_lbs":4341,
       "Acceleration":10,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -90,7 +90,7 @@ const InternalCars : Car[] =  [
       "Horsepower":220,
       "Weight_in_lbs":4354,
       "Acceleration":9,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -101,7 +101,7 @@ const InternalCars : Car[] =  [
       "Horsepower":215,
       "Weight_in_lbs":4312,
       "Acceleration":8.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -112,7 +112,7 @@ const InternalCars : Car[] =  [
       "Horsepower":225,
       "Weight_in_lbs":4425,
       "Acceleration":10,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -123,7 +123,7 @@ const InternalCars : Car[] =  [
       "Horsepower":190,
       "Weight_in_lbs":3850,
       "Acceleration":8.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -134,7 +134,7 @@ const InternalCars : Car[] =  [
       "Horsepower":115,
       "Weight_in_lbs":3090,
       "Acceleration":17.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -145,7 +145,7 @@ const InternalCars : Car[] =  [
       "Horsepower":165,
       "Weight_in_lbs":4142,
       "Acceleration":11.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -156,7 +156,7 @@ const InternalCars : Car[] =  [
       "Horsepower":153,
       "Weight_in_lbs":4034,
       "Acceleration":11,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -167,7 +167,7 @@ const InternalCars : Car[] =  [
       "Horsepower":175,
       "Weight_in_lbs":4166,
       "Acceleration":10.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -178,7 +178,7 @@ const InternalCars : Car[] =  [
       "Horsepower":175,
       "Weight_in_lbs":3850,
       "Acceleration":11,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -189,7 +189,7 @@ const InternalCars : Car[] =  [
       "Horsepower":170,
       "Weight_in_lbs":3563,
       "Acceleration":10,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -200,7 +200,7 @@ const InternalCars : Car[] =  [
       "Horsepower":160,
       "Weight_in_lbs":3609,
       "Acceleration":8,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -211,7 +211,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":3353,
       "Acceleration":8,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -222,7 +222,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3761,
       "Acceleration":9.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -233,7 +233,7 @@ const InternalCars : Car[] =  [
       "Horsepower":225,
       "Weight_in_lbs":3086,
       "Acceleration":10,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -244,7 +244,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2372,
       "Acceleration":15,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -255,7 +255,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2833,
       "Acceleration":15.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -266,7 +266,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2774,
       "Acceleration":15.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -277,7 +277,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":2587,
       "Acceleration":16,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -288,7 +288,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2130,
       "Acceleration":14.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -299,7 +299,7 @@ const InternalCars : Car[] =  [
       "Horsepower":46,
       "Weight_in_lbs":1835,
       "Acceleration":20.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -310,7 +310,7 @@ const InternalCars : Car[] =  [
       "Horsepower":87,
       "Weight_in_lbs":2672,
       "Acceleration":17.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -321,7 +321,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2430,
       "Acceleration":14.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -332,7 +332,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2375,
       "Acceleration":17.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -343,7 +343,7 @@ const InternalCars : Car[] =  [
       "Horsepower":113,
       "Weight_in_lbs":2234,
       "Acceleration":12.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -354,7 +354,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2648,
       "Acceleration":15,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -365,7 +365,7 @@ const InternalCars : Car[] =  [
       "Horsepower":215,
       "Weight_in_lbs":4615,
       "Acceleration":14,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -376,7 +376,7 @@ const InternalCars : Car[] =  [
       "Horsepower":200,
       "Weight_in_lbs":4376,
       "Acceleration":15,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -387,7 +387,7 @@ const InternalCars : Car[] =  [
       "Horsepower":210,
       "Weight_in_lbs":4382,
       "Acceleration":13.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -398,7 +398,7 @@ const InternalCars : Car[] =  [
       "Horsepower":193,
       "Weight_in_lbs":4732,
       "Acceleration":18.5,
-      "Year":"1970-01-01",
+      "Year":"1970",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -409,7 +409,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2130,
       "Acceleration":14.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -420,7 +420,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2264,
       "Acceleration":15.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -431,7 +431,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2228,
       "Acceleration":14,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -442,7 +442,7 @@ const InternalCars : Car[] =  [
       "Horsepower":null,
       "Weight_in_lbs":2046,
       "Acceleration":19,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -453,7 +453,7 @@ const InternalCars : Car[] =  [
       "Horsepower":48,
       "Weight_in_lbs":1978,
       "Acceleration":20,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -464,7 +464,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":2634,
       "Acceleration":13,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -475,7 +475,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3439,
       "Acceleration":15.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -486,7 +486,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3329,
       "Acceleration":15.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -497,7 +497,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":3302,
       "Acceleration":15.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -508,7 +508,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3288,
       "Acceleration":15.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -519,7 +519,7 @@ const InternalCars : Car[] =  [
       "Horsepower":165,
       "Weight_in_lbs":4209,
       "Acceleration":12,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -530,7 +530,7 @@ const InternalCars : Car[] =  [
       "Horsepower":175,
       "Weight_in_lbs":4464,
       "Acceleration":11.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -541,7 +541,7 @@ const InternalCars : Car[] =  [
       "Horsepower":153,
       "Weight_in_lbs":4154,
       "Acceleration":13.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -552,7 +552,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4096,
       "Acceleration":13,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -563,7 +563,7 @@ const InternalCars : Car[] =  [
       "Horsepower":180,
       "Weight_in_lbs":4955,
       "Acceleration":11.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -574,7 +574,7 @@ const InternalCars : Car[] =  [
       "Horsepower":170,
       "Weight_in_lbs":4746,
       "Acceleration":12,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -585,7 +585,7 @@ const InternalCars : Car[] =  [
       "Horsepower":175,
       "Weight_in_lbs":5140,
       "Acceleration":12,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -596,7 +596,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":2962,
       "Acceleration":13.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -607,7 +607,7 @@ const InternalCars : Car[] =  [
       "Horsepower":72,
       "Weight_in_lbs":2408,
       "Acceleration":19,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -618,7 +618,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3282,
       "Acceleration":15,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -629,7 +629,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":3139,
       "Acceleration":14.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -640,7 +640,7 @@ const InternalCars : Car[] =  [
       "Horsepower":86,
       "Weight_in_lbs":2220,
       "Acceleration":14,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -651,7 +651,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2123,
       "Acceleration":14,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -662,7 +662,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":2074,
       "Acceleration":19.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -673,7 +673,7 @@ const InternalCars : Car[] =  [
       "Horsepower":76,
       "Weight_in_lbs":2065,
       "Acceleration":14.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -684,7 +684,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":1773,
       "Acceleration":19,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -695,7 +695,7 @@ const InternalCars : Car[] =  [
       "Horsepower":69,
       "Weight_in_lbs":1613,
       "Acceleration":18,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -706,7 +706,7 @@ const InternalCars : Car[] =  [
       "Horsepower":60,
       "Weight_in_lbs":1834,
       "Acceleration":19,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -717,7 +717,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":1955,
       "Acceleration":20.5,
-      "Year":"1971-01-01",
+      "Year":"1971",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -728,7 +728,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2278,
       "Acceleration":15.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -739,7 +739,7 @@ const InternalCars : Car[] =  [
       "Horsepower":80,
       "Weight_in_lbs":2126,
       "Acceleration":17,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -750,7 +750,7 @@ const InternalCars : Car[] =  [
       "Horsepower":54,
       "Weight_in_lbs":2254,
       "Acceleration":23.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -761,7 +761,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2408,
       "Acceleration":19.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -772,7 +772,7 @@ const InternalCars : Car[] =  [
       "Horsepower":86,
       "Weight_in_lbs":2226,
       "Acceleration":16.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -783,7 +783,7 @@ const InternalCars : Car[] =  [
       "Horsepower":165,
       "Weight_in_lbs":4274,
       "Acceleration":12,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -794,7 +794,7 @@ const InternalCars : Car[] =  [
       "Horsepower":175,
       "Weight_in_lbs":4385,
       "Acceleration":12,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -805,7 +805,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4135,
       "Acceleration":13.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -816,7 +816,7 @@ const InternalCars : Car[] =  [
       "Horsepower":153,
       "Weight_in_lbs":4129,
       "Acceleration":13,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -827,7 +827,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3672,
       "Acceleration":11.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -838,7 +838,7 @@ const InternalCars : Car[] =  [
       "Horsepower":208,
       "Weight_in_lbs":4633,
       "Acceleration":11,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -849,7 +849,7 @@ const InternalCars : Car[] =  [
       "Horsepower":155,
       "Weight_in_lbs":4502,
       "Acceleration":13.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -860,7 +860,7 @@ const InternalCars : Car[] =  [
       "Horsepower":160,
       "Weight_in_lbs":4456,
       "Acceleration":13.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -871,7 +871,7 @@ const InternalCars : Car[] =  [
       "Horsepower":190,
       "Weight_in_lbs":4422,
       "Acceleration":12.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -882,7 +882,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2330,
       "Acceleration":13.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -893,7 +893,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3892,
       "Acceleration":12.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -904,7 +904,7 @@ const InternalCars : Car[] =  [
       "Horsepower":130,
       "Weight_in_lbs":4098,
       "Acceleration":14,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -915,7 +915,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":4294,
       "Acceleration":16,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -926,7 +926,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4077,
       "Acceleration":14,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -937,7 +937,7 @@ const InternalCars : Car[] =  [
       "Horsepower":112,
       "Weight_in_lbs":2933,
       "Acceleration":14.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -948,7 +948,7 @@ const InternalCars : Car[] =  [
       "Horsepower":76,
       "Weight_in_lbs":2511,
       "Acceleration":18,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -959,7 +959,7 @@ const InternalCars : Car[] =  [
       "Horsepower":87,
       "Weight_in_lbs":2979,
       "Acceleration":19.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -970,7 +970,7 @@ const InternalCars : Car[] =  [
       "Horsepower":69,
       "Weight_in_lbs":2189,
       "Acceleration":18,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -981,7 +981,7 @@ const InternalCars : Car[] =  [
       "Horsepower":86,
       "Weight_in_lbs":2395,
       "Acceleration":16,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -992,7 +992,7 @@ const InternalCars : Car[] =  [
       "Horsepower":92,
       "Weight_in_lbs":2288,
       "Acceleration":17,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1003,7 +1003,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2506,
       "Acceleration":14.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1014,7 +1014,7 @@ const InternalCars : Car[] =  [
       "Horsepower":80,
       "Weight_in_lbs":2164,
       "Acceleration":15,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1025,7 +1025,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2100,
       "Acceleration":16.5,
-      "Year":"1972-01-01",
+      "Year":"1972",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1036,7 +1036,7 @@ const InternalCars : Car[] =  [
       "Horsepower":175,
       "Weight_in_lbs":4100,
       "Acceleration":13,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1047,7 +1047,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3672,
       "Acceleration":11.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1058,7 +1058,7 @@ const InternalCars : Car[] =  [
       "Horsepower":145,
       "Weight_in_lbs":3988,
       "Acceleration":13,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1069,7 +1069,7 @@ const InternalCars : Car[] =  [
       "Horsepower":137,
       "Weight_in_lbs":4042,
       "Acceleration":14.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1080,7 +1080,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3777,
       "Acceleration":12.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1091,7 +1091,7 @@ const InternalCars : Car[] =  [
       "Horsepower":198,
       "Weight_in_lbs":4952,
       "Acceleration":11.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1102,7 +1102,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4464,
       "Acceleration":12,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1113,7 +1113,7 @@ const InternalCars : Car[] =  [
       "Horsepower":158,
       "Weight_in_lbs":4363,
       "Acceleration":13,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1124,7 +1124,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4237,
       "Acceleration":14.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1135,7 +1135,7 @@ const InternalCars : Car[] =  [
       "Horsepower":215,
       "Weight_in_lbs":4735,
       "Acceleration":11,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1146,7 +1146,7 @@ const InternalCars : Car[] =  [
       "Horsepower":225,
       "Weight_in_lbs":4951,
       "Acceleration":11,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1157,7 +1157,7 @@ const InternalCars : Car[] =  [
       "Horsepower":175,
       "Weight_in_lbs":3821,
       "Acceleration":11,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1168,7 +1168,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3121,
       "Acceleration":16.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1179,7 +1179,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3278,
       "Acceleration":18,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1190,7 +1190,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":2945,
       "Acceleration":16,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1201,7 +1201,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":3021,
       "Acceleration":16.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1212,7 +1212,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2904,
       "Acceleration":16,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1223,7 +1223,7 @@ const InternalCars : Car[] =  [
       "Horsepower":46,
       "Weight_in_lbs":1950,
       "Acceleration":21,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1234,7 +1234,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4997,
       "Acceleration":14,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1245,7 +1245,7 @@ const InternalCars : Car[] =  [
       "Horsepower":167,
       "Weight_in_lbs":4906,
       "Acceleration":12.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1256,7 +1256,7 @@ const InternalCars : Car[] =  [
       "Horsepower":170,
       "Weight_in_lbs":4654,
       "Acceleration":13,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1267,7 +1267,7 @@ const InternalCars : Car[] =  [
       "Horsepower":180,
       "Weight_in_lbs":4499,
       "Acceleration":12.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1278,7 +1278,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":2789,
       "Acceleration":15,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1289,7 +1289,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2279,
       "Acceleration":19,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1300,7 +1300,7 @@ const InternalCars : Car[] =  [
       "Horsepower":72,
       "Weight_in_lbs":2401,
       "Acceleration":19.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1311,7 +1311,7 @@ const InternalCars : Car[] =  [
       "Horsepower":94,
       "Weight_in_lbs":2379,
       "Acceleration":16.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1322,7 +1322,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2124,
       "Acceleration":13.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1333,7 +1333,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":2310,
       "Acceleration":18.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1344,7 +1344,7 @@ const InternalCars : Car[] =  [
       "Horsepower":107,
       "Weight_in_lbs":2472,
       "Acceleration":14,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1355,7 +1355,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2265,
       "Acceleration":15.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1366,7 +1366,7 @@ const InternalCars : Car[] =  [
       "Horsepower":145,
       "Weight_in_lbs":4082,
       "Acceleration":13,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1377,7 +1377,7 @@ const InternalCars : Car[] =  [
       "Horsepower":230,
       "Weight_in_lbs":4278,
       "Acceleration":9.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1388,7 +1388,7 @@ const InternalCars : Car[] =  [
       "Horsepower":49,
       "Weight_in_lbs":1867,
       "Acceleration":19.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1399,7 +1399,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2158,
       "Acceleration":15.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1410,7 +1410,7 @@ const InternalCars : Car[] =  [
       "Horsepower":91,
       "Weight_in_lbs":2582,
       "Acceleration":14,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1421,7 +1421,7 @@ const InternalCars : Car[] =  [
       "Horsepower":112,
       "Weight_in_lbs":2868,
       "Acceleration":15.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1432,7 +1432,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3399,
       "Acceleration":11,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1443,7 +1443,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":2660,
       "Acceleration":14,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1454,7 +1454,7 @@ const InternalCars : Car[] =  [
       "Horsepower":122,
       "Weight_in_lbs":2807,
       "Acceleration":13.5,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1465,7 +1465,7 @@ const InternalCars : Car[] =  [
       "Horsepower":180,
       "Weight_in_lbs":3664,
       "Acceleration":11,
-      "Year":"1973-01-01",
+      "Year":"1973",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1476,7 +1476,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":3102,
       "Acceleration":16.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1487,7 +1487,7 @@ const InternalCars : Car[] =  [
       "Horsepower":null,
       "Weight_in_lbs":2875,
       "Acceleration":17,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1498,7 +1498,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":2901,
       "Acceleration":16,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1509,7 +1509,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3336,
       "Acceleration":17,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1520,7 +1520,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":1950,
       "Acceleration":19,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1531,7 +1531,7 @@ const InternalCars : Car[] =  [
       "Horsepower":80,
       "Weight_in_lbs":2451,
       "Acceleration":16.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1542,7 +1542,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":1836,
       "Acceleration":21,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1553,7 +1553,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2542,
       "Acceleration":17,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1564,7 +1564,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3781,
       "Acceleration":17,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1575,7 +1575,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3632,
       "Acceleration":18,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1586,7 +1586,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3613,
       "Acceleration":16.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1597,7 +1597,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":4141,
       "Acceleration":14,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1608,7 +1608,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4699,
       "Acceleration":14.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1619,7 +1619,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4457,
       "Acceleration":13.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1630,7 +1630,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":4638,
       "Acceleration":16,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1641,7 +1641,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4257,
       "Acceleration":15.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1652,7 +1652,7 @@ const InternalCars : Car[] =  [
       "Horsepower":83,
       "Weight_in_lbs":2219,
       "Acceleration":16.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1663,7 +1663,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":1963,
       "Acceleration":15.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1674,7 +1674,7 @@ const InternalCars : Car[] =  [
       "Horsepower":78,
       "Weight_in_lbs":2300,
       "Acceleration":14.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1685,7 +1685,7 @@ const InternalCars : Car[] =  [
       "Horsepower":52,
       "Weight_in_lbs":1649,
       "Acceleration":16.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1696,7 +1696,7 @@ const InternalCars : Car[] =  [
       "Horsepower":61,
       "Weight_in_lbs":2003,
       "Acceleration":19,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1707,7 +1707,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2125,
       "Acceleration":14.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1718,7 +1718,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2108,
       "Acceleration":15.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1729,7 +1729,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2246,
       "Acceleration":14,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1740,7 +1740,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2489,
       "Acceleration":15,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1751,7 +1751,7 @@ const InternalCars : Car[] =  [
       "Horsepower":93,
       "Weight_in_lbs":2391,
       "Acceleration":15.5,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1762,7 +1762,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":2000,
       "Acceleration":16,
-      "Year":"1974-01-01",
+      "Year":"1974",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -1773,7 +1773,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":3264,
       "Acceleration":16,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1784,7 +1784,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3459,
       "Acceleration":16,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1795,7 +1795,7 @@ const InternalCars : Car[] =  [
       "Horsepower":72,
       "Weight_in_lbs":3432,
       "Acceleration":21,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1806,7 +1806,7 @@ const InternalCars : Car[] =  [
       "Horsepower":72,
       "Weight_in_lbs":3158,
       "Acceleration":19.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1817,7 +1817,7 @@ const InternalCars : Car[] =  [
       "Horsepower":170,
       "Weight_in_lbs":4668,
       "Acceleration":11.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1828,7 +1828,7 @@ const InternalCars : Car[] =  [
       "Horsepower":145,
       "Weight_in_lbs":4440,
       "Acceleration":14,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1839,7 +1839,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4498,
       "Acceleration":14.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1850,7 +1850,7 @@ const InternalCars : Car[] =  [
       "Horsepower":148,
       "Weight_in_lbs":4657,
       "Acceleration":13.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1861,7 +1861,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3907,
       "Acceleration":21,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1872,7 +1872,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3897,
       "Acceleration":18.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1883,7 +1883,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3730,
       "Acceleration":19,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1894,7 +1894,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":3785,
       "Acceleration":19,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1905,7 +1905,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3039,
       "Acceleration":15,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1916,7 +1916,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3221,
       "Acceleration":13.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1927,7 +1927,7 @@ const InternalCars : Car[] =  [
       "Horsepower":129,
       "Weight_in_lbs":3169,
       "Acceleration":12,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1938,7 +1938,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2171,
       "Acceleration":16,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1949,7 +1949,7 @@ const InternalCars : Car[] =  [
       "Horsepower":83,
       "Weight_in_lbs":2639,
       "Acceleration":17,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1960,7 +1960,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":2914,
       "Acceleration":16,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1971,7 +1971,7 @@ const InternalCars : Car[] =  [
       "Horsepower":78,
       "Weight_in_lbs":2592,
       "Acceleration":18.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -1982,7 +1982,7 @@ const InternalCars : Car[] =  [
       "Horsepower":96,
       "Weight_in_lbs":2702,
       "Acceleration":13.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -1993,7 +1993,7 @@ const InternalCars : Car[] =  [
       "Horsepower":71,
       "Weight_in_lbs":2223,
       "Acceleration":16.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2004,7 +2004,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2545,
       "Acceleration":17,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2015,7 +2015,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2984,
       "Acceleration":14.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2026,7 +2026,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":1937,
       "Acceleration":14,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2037,7 +2037,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":3211,
       "Acceleration":17,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2048,7 +2048,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2694,
       "Acceleration":15,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2059,7 +2059,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2957,
       "Acceleration":17,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2070,7 +2070,7 @@ const InternalCars : Car[] =  [
       "Horsepower":98,
       "Weight_in_lbs":2945,
       "Acceleration":14.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2081,7 +2081,7 @@ const InternalCars : Car[] =  [
       "Horsepower":115,
       "Weight_in_lbs":2671,
       "Acceleration":13.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2092,7 +2092,7 @@ const InternalCars : Car[] =  [
       "Horsepower":53,
       "Weight_in_lbs":1795,
       "Acceleration":17.5,
-      "Year":"1975-01-01",
+      "Year":"1975",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2103,7 +2103,7 @@ const InternalCars : Car[] =  [
       "Horsepower":86,
       "Weight_in_lbs":2464,
       "Acceleration":15.5,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2114,7 +2114,7 @@ const InternalCars : Car[] =  [
       "Horsepower":81,
       "Weight_in_lbs":2220,
       "Acceleration":16.9,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2125,7 +2125,7 @@ const InternalCars : Car[] =  [
       "Horsepower":92,
       "Weight_in_lbs":2572,
       "Acceleration":14.9,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2136,7 +2136,7 @@ const InternalCars : Car[] =  [
       "Horsepower":79,
       "Weight_in_lbs":2255,
       "Acceleration":17.7,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2147,7 +2147,7 @@ const InternalCars : Car[] =  [
       "Horsepower":83,
       "Weight_in_lbs":2202,
       "Acceleration":15.3,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2158,7 +2158,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":4215,
       "Acceleration":13,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2169,7 +2169,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":4190,
       "Acceleration":13,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2180,7 +2180,7 @@ const InternalCars : Car[] =  [
       "Horsepower":120,
       "Weight_in_lbs":3962,
       "Acceleration":13.9,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2191,7 +2191,7 @@ const InternalCars : Car[] =  [
       "Horsepower":152,
       "Weight_in_lbs":4215,
       "Acceleration":12.8,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2202,7 +2202,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3233,
       "Acceleration":15.4,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2213,7 +2213,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3353,
       "Acceleration":14.5,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2224,7 +2224,7 @@ const InternalCars : Car[] =  [
       "Horsepower":81,
       "Weight_in_lbs":3012,
       "Acceleration":17.6,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2235,7 +2235,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":3085,
       "Acceleration":17.6,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2246,7 +2246,7 @@ const InternalCars : Car[] =  [
       "Horsepower":52,
       "Weight_in_lbs":2035,
       "Acceleration":22.2,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2257,7 +2257,7 @@ const InternalCars : Car[] =  [
       "Horsepower":60,
       "Weight_in_lbs":2164,
       "Acceleration":22.1,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2268,7 +2268,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":1937,
       "Acceleration":14.2,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2279,7 +2279,7 @@ const InternalCars : Car[] =  [
       "Horsepower":53,
       "Weight_in_lbs":1795,
       "Acceleration":17.4,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2290,7 +2290,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3651,
       "Acceleration":17.7,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2301,7 +2301,7 @@ const InternalCars : Car[] =  [
       "Horsepower":78,
       "Weight_in_lbs":3574,
       "Acceleration":21,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2312,7 +2312,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3645,
       "Acceleration":16.2,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2323,7 +2323,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":3193,
       "Acceleration":17.8,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2334,7 +2334,7 @@ const InternalCars : Car[] =  [
       "Horsepower":71,
       "Weight_in_lbs":1825,
       "Acceleration":12.2,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2345,7 +2345,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":1990,
       "Acceleration":17,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2356,7 +2356,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2155,
       "Acceleration":16.4,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2367,7 +2367,7 @@ const InternalCars : Car[] =  [
       "Horsepower":72,
       "Weight_in_lbs":2565,
       "Acceleration":13.6,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2378,7 +2378,7 @@ const InternalCars : Car[] =  [
       "Horsepower":102,
       "Weight_in_lbs":3150,
       "Acceleration":15.7,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2389,7 +2389,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3940,
       "Acceleration":13.2,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2400,7 +2400,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":3270,
       "Acceleration":21.9,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2411,7 +2411,7 @@ const InternalCars : Car[] =  [
       "Horsepower":108,
       "Weight_in_lbs":2930,
       "Acceleration":15.5,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2422,7 +2422,7 @@ const InternalCars : Car[] =  [
       "Horsepower":120,
       "Weight_in_lbs":3820,
       "Acceleration":16.7,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2433,7 +2433,7 @@ const InternalCars : Car[] =  [
       "Horsepower":180,
       "Weight_in_lbs":4380,
       "Acceleration":12.1,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2444,7 +2444,7 @@ const InternalCars : Car[] =  [
       "Horsepower":145,
       "Weight_in_lbs":4055,
       "Acceleration":12,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2455,7 +2455,7 @@ const InternalCars : Car[] =  [
       "Horsepower":130,
       "Weight_in_lbs":3870,
       "Acceleration":15,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2466,7 +2466,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3755,
       "Acceleration":14,
-      "Year":"1976-01-01",
+      "Year":"1976",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2477,7 +2477,7 @@ const InternalCars : Car[] =  [
       "Horsepower":68,
       "Weight_in_lbs":2045,
       "Acceleration":18.5,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2488,7 +2488,7 @@ const InternalCars : Car[] =  [
       "Horsepower":80,
       "Weight_in_lbs":2155,
       "Acceleration":14.8,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2499,7 +2499,7 @@ const InternalCars : Car[] =  [
       "Horsepower":58,
       "Weight_in_lbs":1825,
       "Acceleration":18.6,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2510,7 +2510,7 @@ const InternalCars : Car[] =  [
       "Horsepower":96,
       "Weight_in_lbs":2300,
       "Acceleration":15.5,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2521,7 +2521,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":1945,
       "Acceleration":16.8,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2532,7 +2532,7 @@ const InternalCars : Car[] =  [
       "Horsepower":145,
       "Weight_in_lbs":3880,
       "Acceleration":12.5,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2543,7 +2543,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":4060,
       "Acceleration":19,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2554,7 +2554,7 @@ const InternalCars : Car[] =  [
       "Horsepower":145,
       "Weight_in_lbs":4140,
       "Acceleration":13.7,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2565,7 +2565,7 @@ const InternalCars : Car[] =  [
       "Horsepower":130,
       "Weight_in_lbs":4295,
       "Acceleration":14.9,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2576,7 +2576,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3520,
       "Acceleration":16.4,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2587,7 +2587,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3425,
       "Acceleration":16.9,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2598,7 +2598,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3630,
       "Acceleration":17.7,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2609,7 +2609,7 @@ const InternalCars : Car[] =  [
       "Horsepower":98,
       "Weight_in_lbs":3525,
       "Acceleration":19,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2620,7 +2620,7 @@ const InternalCars : Car[] =  [
       "Horsepower":180,
       "Weight_in_lbs":4220,
       "Acceleration":11.1,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2631,7 +2631,7 @@ const InternalCars : Car[] =  [
       "Horsepower":170,
       "Weight_in_lbs":4165,
       "Acceleration":11.4,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2642,7 +2642,7 @@ const InternalCars : Car[] =  [
       "Horsepower":190,
       "Weight_in_lbs":4325,
       "Acceleration":12.2,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2653,7 +2653,7 @@ const InternalCars : Car[] =  [
       "Horsepower":149,
       "Weight_in_lbs":4335,
       "Acceleration":14.5,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2664,7 +2664,7 @@ const InternalCars : Car[] =  [
       "Horsepower":78,
       "Weight_in_lbs":1940,
       "Acceleration":14.5,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2675,7 +2675,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2740,
       "Acceleration":16,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2686,7 +2686,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2265,
       "Acceleration":18.2,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2697,7 +2697,7 @@ const InternalCars : Car[] =  [
       "Horsepower":89,
       "Weight_in_lbs":2755,
       "Acceleration":15.8,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2708,7 +2708,7 @@ const InternalCars : Car[] =  [
       "Horsepower":63,
       "Weight_in_lbs":2051,
       "Acceleration":17,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2719,7 +2719,7 @@ const InternalCars : Car[] =  [
       "Horsepower":83,
       "Weight_in_lbs":2075,
       "Acceleration":15.9,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2730,7 +2730,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":1985,
       "Acceleration":16.4,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2741,7 +2741,7 @@ const InternalCars : Car[] =  [
       "Horsepower":78,
       "Weight_in_lbs":2190,
       "Acceleration":14.1,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2752,7 +2752,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2815,
       "Acceleration":14.5,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2763,7 +2763,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":2600,
       "Acceleration":12.8,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2774,7 +2774,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":2720,
       "Acceleration":13.5,
-      "Year":"1977-01-01",
+      "Year":"1977",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2785,7 +2785,7 @@ const InternalCars : Car[] =  [
       "Horsepower":48,
       "Weight_in_lbs":1985,
       "Acceleration":21.5,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -2796,7 +2796,7 @@ const InternalCars : Car[] =  [
       "Horsepower":66,
       "Weight_in_lbs":1800,
       "Acceleration":14.4,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2807,7 +2807,7 @@ const InternalCars : Car[] =  [
       "Horsepower":52,
       "Weight_in_lbs":1985,
       "Acceleration":19.4,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2818,7 +2818,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":2070,
       "Acceleration":18.6,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2829,7 +2829,7 @@ const InternalCars : Car[] =  [
       "Horsepower":60,
       "Weight_in_lbs":1800,
       "Acceleration":16.4,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -2840,7 +2840,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3365,
       "Acceleration":15.5,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2851,7 +2851,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":3735,
       "Acceleration":13.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2862,7 +2862,7 @@ const InternalCars : Car[] =  [
       "Horsepower":139,
       "Weight_in_lbs":3570,
       "Acceleration":12.8,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2873,7 +2873,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3535,
       "Acceleration":19.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2884,7 +2884,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":3155,
       "Acceleration":18.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2895,7 +2895,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":2965,
       "Acceleration":15.8,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2906,7 +2906,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2720,
       "Acceleration":15.4,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2917,7 +2917,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":3430,
       "Acceleration":17.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2928,7 +2928,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":3210,
       "Acceleration":17.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2939,7 +2939,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3380,
       "Acceleration":15.8,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2950,7 +2950,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":3070,
       "Acceleration":16.7,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2961,7 +2961,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3620,
       "Acceleration":18.7,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2972,7 +2972,7 @@ const InternalCars : Car[] =  [
       "Horsepower":120,
       "Weight_in_lbs":3410,
       "Acceleration":15.1,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2983,7 +2983,7 @@ const InternalCars : Car[] =  [
       "Horsepower":145,
       "Weight_in_lbs":3425,
       "Acceleration":13.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -2994,7 +2994,7 @@ const InternalCars : Car[] =  [
       "Horsepower":165,
       "Weight_in_lbs":3445,
       "Acceleration":13.4,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3005,7 +3005,7 @@ const InternalCars : Car[] =  [
       "Horsepower":139,
       "Weight_in_lbs":3205,
       "Acceleration":11.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3016,7 +3016,7 @@ const InternalCars : Car[] =  [
       "Horsepower":140,
       "Weight_in_lbs":4080,
       "Acceleration":13.7,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3027,7 +3027,7 @@ const InternalCars : Car[] =  [
       "Horsepower":68,
       "Weight_in_lbs":2155,
       "Acceleration":16.5,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3038,7 +3038,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2560,
       "Acceleration":14.2,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3049,7 +3049,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2300,
       "Acceleration":14.7,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3060,7 +3060,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2230,
       "Acceleration":14.5,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3071,7 +3071,7 @@ const InternalCars : Car[] =  [
       "Horsepower":95,
       "Weight_in_lbs":2515,
       "Acceleration":14.8,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3082,7 +3082,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":2745,
       "Acceleration":16.7,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3093,7 +3093,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":2855,
       "Acceleration":17.6,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3104,7 +3104,7 @@ const InternalCars : Car[] =  [
       "Horsepower":97,
       "Weight_in_lbs":2405,
       "Acceleration":14.9,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3115,7 +3115,7 @@ const InternalCars : Car[] =  [
       "Horsepower":103,
       "Weight_in_lbs":2830,
       "Acceleration":15.9,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3126,7 +3126,7 @@ const InternalCars : Car[] =  [
       "Horsepower":125,
       "Weight_in_lbs":3140,
       "Acceleration":13.6,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3137,7 +3137,7 @@ const InternalCars : Car[] =  [
       "Horsepower":115,
       "Weight_in_lbs":2795,
       "Acceleration":15.7,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3148,7 +3148,7 @@ const InternalCars : Car[] =  [
       "Horsepower":133,
       "Weight_in_lbs":3410,
       "Acceleration":15.8,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3159,7 +3159,7 @@ const InternalCars : Car[] =  [
       "Horsepower":71,
       "Weight_in_lbs":1990,
       "Acceleration":14.9,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3170,7 +3170,7 @@ const InternalCars : Car[] =  [
       "Horsepower":68,
       "Weight_in_lbs":2135,
       "Acceleration":16.6,
-      "Year":"1978-01-01",
+      "Year":"1978",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3181,7 +3181,7 @@ const InternalCars : Car[] =  [
       "Horsepower":115,
       "Weight_in_lbs":3245,
       "Acceleration":15.4,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3192,7 +3192,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":2990,
       "Acceleration":18.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3203,7 +3203,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2890,
       "Acceleration":17.3,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3214,7 +3214,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":3265,
       "Acceleration":18.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3225,7 +3225,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3360,
       "Acceleration":16.6,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3236,7 +3236,7 @@ const InternalCars : Car[] =  [
       "Horsepower":130,
       "Weight_in_lbs":3840,
       "Acceleration":15.4,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3247,7 +3247,7 @@ const InternalCars : Car[] =  [
       "Horsepower":129,
       "Weight_in_lbs":3725,
       "Acceleration":13.4,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3258,7 +3258,7 @@ const InternalCars : Car[] =  [
       "Horsepower":138,
       "Weight_in_lbs":3955,
       "Acceleration":13.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3269,7 +3269,7 @@ const InternalCars : Car[] =  [
       "Horsepower":135,
       "Weight_in_lbs":3830,
       "Acceleration":15.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3280,7 +3280,7 @@ const InternalCars : Car[] =  [
       "Horsepower":155,
       "Weight_in_lbs":4360,
       "Acceleration":14.9,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3291,7 +3291,7 @@ const InternalCars : Car[] =  [
       "Horsepower":142,
       "Weight_in_lbs":4054,
       "Acceleration":14.3,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3302,7 +3302,7 @@ const InternalCars : Car[] =  [
       "Horsepower":125,
       "Weight_in_lbs":3605,
       "Acceleration":15,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3313,7 +3313,7 @@ const InternalCars : Car[] =  [
       "Horsepower":150,
       "Weight_in_lbs":3940,
       "Acceleration":13,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3324,7 +3324,7 @@ const InternalCars : Car[] =  [
       "Horsepower":71,
       "Weight_in_lbs":1925,
       "Acceleration":14,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3335,7 +3335,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":1975,
       "Acceleration":15.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3346,7 +3346,7 @@ const InternalCars : Car[] =  [
       "Horsepower":80,
       "Weight_in_lbs":1915,
       "Acceleration":14.4,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3357,7 +3357,7 @@ const InternalCars : Car[] =  [
       "Horsepower":80,
       "Weight_in_lbs":2670,
       "Acceleration":15,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3368,7 +3368,7 @@ const InternalCars : Car[] =  [
       "Horsepower":77,
       "Weight_in_lbs":3530,
       "Acceleration":20.1,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3379,7 +3379,7 @@ const InternalCars : Car[] =  [
       "Horsepower":125,
       "Weight_in_lbs":3900,
       "Acceleration":17.4,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3390,7 +3390,7 @@ const InternalCars : Car[] =  [
       "Horsepower":71,
       "Weight_in_lbs":3190,
       "Acceleration":24.8,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3401,7 +3401,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":3420,
       "Acceleration":22.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3412,7 +3412,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":2200,
       "Acceleration":13.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3423,7 +3423,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":2150,
       "Acceleration":14.9,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3434,7 +3434,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":2020,
       "Acceleration":19.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3445,7 +3445,7 @@ const InternalCars : Car[] =  [
       "Horsepower":69,
       "Weight_in_lbs":2130,
       "Acceleration":14.7,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3456,7 +3456,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2670,
       "Acceleration":16,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3467,7 +3467,7 @@ const InternalCars : Car[] =  [
       "Horsepower":115,
       "Weight_in_lbs":2595,
       "Acceleration":11.3,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3478,7 +3478,7 @@ const InternalCars : Car[] =  [
       "Horsepower":115,
       "Weight_in_lbs":2700,
       "Acceleration":12.9,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3489,7 +3489,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2556,
       "Acceleration":13.2,
-      "Year":"1979-01-01",
+      "Year":"1979",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3500,7 +3500,7 @@ const InternalCars : Car[] =  [
       "Horsepower":76,
       "Weight_in_lbs":2144,
       "Acceleration":14.7,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3511,7 +3511,7 @@ const InternalCars : Car[] =  [
       "Horsepower":60,
       "Weight_in_lbs":1968,
       "Acceleration":18.8,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3522,7 +3522,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":2120,
       "Acceleration":15.5,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3533,7 +3533,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":2019,
       "Acceleration":16.4,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3544,7 +3544,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2678,
       "Acceleration":16.5,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3555,7 +3555,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2870,
       "Acceleration":18.1,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3566,7 +3566,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":3003,
       "Acceleration":20.1,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3577,7 +3577,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":3381,
       "Acceleration":18.7,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3588,7 +3588,7 @@ const InternalCars : Car[] =  [
       "Horsepower":78,
       "Weight_in_lbs":2188,
       "Acceleration":15.8,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3599,7 +3599,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2711,
       "Acceleration":15.5,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3610,7 +3610,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2542,
       "Acceleration":17.5,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3621,7 +3621,7 @@ const InternalCars : Car[] =  [
       "Horsepower":92,
       "Weight_in_lbs":2434,
       "Acceleration":15,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3632,7 +3632,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2265,
       "Acceleration":15.2,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3643,7 +3643,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":2110,
       "Acceleration":17.9,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3654,7 +3654,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":2800,
       "Acceleration":14.4,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3665,7 +3665,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":2110,
       "Acceleration":19.2,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3676,7 +3676,7 @@ const InternalCars : Car[] =  [
       "Horsepower":48,
       "Weight_in_lbs":2085,
       "Acceleration":21.7,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3687,7 +3687,7 @@ const InternalCars : Car[] =  [
       "Horsepower":48,
       "Weight_in_lbs":2335,
       "Acceleration":23.7,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3698,7 +3698,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":2950,
       "Acceleration":19.9,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3709,7 +3709,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":3250,
       "Acceleration":21.8,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3720,7 +3720,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":1850,
       "Acceleration":13.8,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3731,7 +3731,7 @@ const InternalCars : Car[] =  [
       "Horsepower":null,
       "Weight_in_lbs":1835,
       "Acceleration":17.3,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3742,7 +3742,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":2145,
       "Acceleration":18,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3753,7 +3753,7 @@ const InternalCars : Car[] =  [
       "Horsepower":62,
       "Weight_in_lbs":1845,
       "Acceleration":15.3,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3764,7 +3764,7 @@ const InternalCars : Car[] =  [
       "Horsepower":132,
       "Weight_in_lbs":2910,
       "Acceleration":11.4,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3775,7 +3775,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":2420,
       "Acceleration":12.5,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3786,7 +3786,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2500,
       "Acceleration":15.1,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3797,7 +3797,7 @@ const InternalCars : Car[] =  [
       "Horsepower":null,
       "Weight_in_lbs":2905,
       "Acceleration":14.3,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3808,7 +3808,7 @@ const InternalCars : Car[] =  [
       "Horsepower":72,
       "Weight_in_lbs":2290,
       "Acceleration":17,
-      "Year":"1980-01-01",
+      "Year":"1980",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3819,7 +3819,7 @@ const InternalCars : Car[] =  [
       "Horsepower":84,
       "Weight_in_lbs":2490,
       "Acceleration":15.7,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3830,7 +3830,7 @@ const InternalCars : Car[] =  [
       "Horsepower":84,
       "Weight_in_lbs":2635,
       "Acceleration":16.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3841,7 +3841,7 @@ const InternalCars : Car[] =  [
       "Horsepower":92,
       "Weight_in_lbs":2620,
       "Acceleration":14.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3852,7 +3852,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":2725,
       "Acceleration":12.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3863,7 +3863,7 @@ const InternalCars : Car[] =  [
       "Horsepower":84,
       "Weight_in_lbs":2385,
       "Acceleration":12.9,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3874,7 +3874,7 @@ const InternalCars : Car[] =  [
       "Horsepower":58,
       "Weight_in_lbs":1755,
       "Acceleration":16.9,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3885,7 +3885,7 @@ const InternalCars : Car[] =  [
       "Horsepower":64,
       "Weight_in_lbs":1875,
       "Acceleration":16.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3896,7 +3896,7 @@ const InternalCars : Car[] =  [
       "Horsepower":60,
       "Weight_in_lbs":1760,
       "Acceleration":16.1,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3907,7 +3907,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":2065,
       "Acceleration":17.8,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3918,7 +3918,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":1975,
       "Acceleration":19.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3929,7 +3929,7 @@ const InternalCars : Car[] =  [
       "Horsepower":62,
       "Weight_in_lbs":2050,
       "Acceleration":17.3,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3940,7 +3940,7 @@ const InternalCars : Car[] =  [
       "Horsepower":68,
       "Weight_in_lbs":1985,
       "Acceleration":16,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -3951,7 +3951,7 @@ const InternalCars : Car[] =  [
       "Horsepower":63,
       "Weight_in_lbs":2215,
       "Acceleration":14.9,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3962,7 +3962,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":2045,
       "Acceleration":16.2,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3973,7 +3973,7 @@ const InternalCars : Car[] =  [
       "Horsepower":65,
       "Weight_in_lbs":2380,
       "Acceleration":20.7,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -3984,7 +3984,7 @@ const InternalCars : Car[] =  [
       "Horsepower":74,
       "Weight_in_lbs":2190,
       "Acceleration":14.2,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -3995,7 +3995,7 @@ const InternalCars : Car[] =  [
       "Horsepower":null,
       "Weight_in_lbs":2320,
       "Acceleration":15.8,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -4006,7 +4006,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2210,
       "Acceleration":14.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4017,7 +4017,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2350,
       "Acceleration":16.8,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4028,7 +4028,7 @@ const InternalCars : Car[] =  [
       "Horsepower":100,
       "Weight_in_lbs":2615,
       "Acceleration":14.8,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4039,7 +4039,7 @@ const InternalCars : Car[] =  [
       "Horsepower":74,
       "Weight_in_lbs":2635,
       "Acceleration":18.3,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4050,7 +4050,7 @@ const InternalCars : Car[] =  [
       "Horsepower":80,
       "Weight_in_lbs":3230,
       "Acceleration":20.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -4061,7 +4061,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":2800,
       "Acceleration":15.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -4072,7 +4072,7 @@ const InternalCars : Car[] =  [
       "Horsepower":76,
       "Weight_in_lbs":3160,
       "Acceleration":19.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -4083,7 +4083,7 @@ const InternalCars : Car[] =  [
       "Horsepower":116,
       "Weight_in_lbs":2900,
       "Acceleration":12.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4094,7 +4094,7 @@ const InternalCars : Car[] =  [
       "Horsepower":120,
       "Weight_in_lbs":2930,
       "Acceleration":13.8,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4105,7 +4105,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":3415,
       "Acceleration":15.8,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4116,7 +4116,7 @@ const InternalCars : Car[] =  [
       "Horsepower":105,
       "Weight_in_lbs":3725,
       "Acceleration":19,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4127,7 +4127,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":3060,
       "Acceleration":17.1,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4138,7 +4138,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":3465,
       "Acceleration":16.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4149,7 +4149,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2605,
       "Acceleration":19.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4160,7 +4160,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2640,
       "Acceleration":18.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4171,7 +4171,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2395,
       "Acceleration":18,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4182,7 +4182,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":2575,
       "Acceleration":16.2,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4193,7 +4193,7 @@ const InternalCars : Car[] =  [
       "Horsepower":84,
       "Weight_in_lbs":2525,
       "Acceleration":16,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4204,7 +4204,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2735,
       "Acceleration":18,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4215,7 +4215,7 @@ const InternalCars : Car[] =  [
       "Horsepower":92,
       "Weight_in_lbs":2865,
       "Acceleration":16.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4226,7 +4226,7 @@ const InternalCars : Car[] =  [
       "Horsepower":null,
       "Weight_in_lbs":3035,
       "Acceleration":20.5,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4237,7 +4237,7 @@ const InternalCars : Car[] =  [
       "Horsepower":74,
       "Weight_in_lbs":1980,
       "Acceleration":15.3,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -4248,7 +4248,7 @@ const InternalCars : Car[] =  [
       "Horsepower":68,
       "Weight_in_lbs":2025,
       "Acceleration":18.2,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4259,7 +4259,7 @@ const InternalCars : Car[] =  [
       "Horsepower":68,
       "Weight_in_lbs":1970,
       "Acceleration":17.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4270,7 +4270,7 @@ const InternalCars : Car[] =  [
       "Horsepower":63,
       "Weight_in_lbs":2125,
       "Acceleration":14.7,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4281,7 +4281,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":2125,
       "Acceleration":17.3,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4292,7 +4292,7 @@ const InternalCars : Car[] =  [
       "Horsepower":88,
       "Weight_in_lbs":2160,
       "Acceleration":14.5,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4303,7 +4303,7 @@ const InternalCars : Car[] =  [
       "Horsepower":75,
       "Weight_in_lbs":2205,
       "Acceleration":14.5,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4314,7 +4314,7 @@ const InternalCars : Car[] =  [
       "Horsepower":70,
       "Weight_in_lbs":2245,
       "Acceleration":16.9,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4325,7 +4325,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":1965,
       "Acceleration":15,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4336,7 +4336,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":1965,
       "Acceleration":15.7,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4347,7 +4347,7 @@ const InternalCars : Car[] =  [
       "Horsepower":67,
       "Weight_in_lbs":1995,
       "Acceleration":16.2,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4358,7 +4358,7 @@ const InternalCars : Car[] =  [
       "Horsepower":110,
       "Weight_in_lbs":2945,
       "Acceleration":16.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4369,7 +4369,7 @@ const InternalCars : Car[] =  [
       "Horsepower":85,
       "Weight_in_lbs":3015,
       "Acceleration":17,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4380,7 +4380,7 @@ const InternalCars : Car[] =  [
       "Horsepower":92,
       "Weight_in_lbs":2585,
       "Acceleration":14.5,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4391,7 +4391,7 @@ const InternalCars : Car[] =  [
       "Horsepower":112,
       "Weight_in_lbs":2835,
       "Acceleration":14.7,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4402,7 +4402,7 @@ const InternalCars : Car[] =  [
       "Horsepower":96,
       "Weight_in_lbs":2665,
       "Acceleration":13.9,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Japan"
    },
    {  "Id":undefined,
@@ -4413,7 +4413,7 @@ const InternalCars : Car[] =  [
       "Horsepower":84,
       "Weight_in_lbs":2370,
       "Acceleration":13,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4424,7 +4424,7 @@ const InternalCars : Car[] =  [
       "Horsepower":90,
       "Weight_in_lbs":2950,
       "Acceleration":17.3,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4435,7 +4435,7 @@ const InternalCars : Car[] =  [
       "Horsepower":86,
       "Weight_in_lbs":2790,
       "Acceleration":15.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4446,7 +4446,7 @@ const InternalCars : Car[] =  [
       "Horsepower":52,
       "Weight_in_lbs":2130,
       "Acceleration":24.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"Europe"
    },
    {  "Id":undefined,
@@ -4457,7 +4457,7 @@ const InternalCars : Car[] =  [
       "Horsepower":84,
       "Weight_in_lbs":2295,
       "Acceleration":11.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4468,7 +4468,7 @@ const InternalCars : Car[] =  [
       "Horsepower":79,
       "Weight_in_lbs":2625,
       "Acceleration":18.6,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    },
    {  "Id":undefined,
@@ -4479,13 +4479,25 @@ const InternalCars : Car[] =  [
       "Horsepower":82,
       "Weight_in_lbs":2720,
       "Acceleration":19.4,
-      "Year":"1982-01-01",
+      "Year":"1982",
       "Origin":"USA"
    }
 ]
 
+function capitalize(inVal : string): string {
 
-export const Cars = InternalCars.sort((a:Car, b:Car)=>{return (a.Name>b.Name?1:-1)});
+   const arr = inVal.split(" ");
+
+   // loop through each element of the array and capitalize the first letter.
+   for (let i = 0; i < arr.length; i++) {
+       arr[i] = arr[i].charAt(0).toUpperCase() + arr[i].slice(1);
+   }
+
+   // Join all the elements of the array back into a string using a blankspace as a separator
+   return  arr.join(" ");
+}
+
+export const Cars = InternalCars.sort((a:Car, b:Car)=>{return (a.Name>b.Name?1:-1)}).map((item:Car)=>{item.Name = capitalize(item.Name); return item})
 
 
 // darn dataset didn't have a unique id... smh
