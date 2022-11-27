@@ -14,8 +14,11 @@ List
 Detail
 ![Detail screen](https://github.com/MrLuis/test/blob/main/RestAPI/detail.png)
 
-### H3 Todo
-* Delete
-* Edit
+### Todo
+* Implement Edit
+* Implement Delete
 * Server Side Bug (Sometimes the server stop responding)
 * Upgrade servers typescript engine
+* Add some icons
+  * actions (edit, remove)
+  * Home (when on detail mode)
