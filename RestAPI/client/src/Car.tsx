@@ -1,6 +1,7 @@
 
 import { Link, useLocation, Navigate, useNavigate } from "react-router-dom";
 import React, { useEffect, useState, MouseEvent, useCallback } from "react";
+import {FaTrash , FaSave} from 'react-icons/fa'
 
 type  CarData = {
     "Id": number,
@@ -135,8 +136,8 @@ export default function Car() {
                 </tbody>
             </table>
             <div className="buttons-div">
-                <button onClick={handleSave}>Save</button>
-                <button onClick={handleRemove}>Remove</button>
+                <button onClick={handleSave}><FaSave/> Save</button>
+                <button onClick={handleRemove}> <FaTrash/> Remove</button>
             </div>
         </div>
     )

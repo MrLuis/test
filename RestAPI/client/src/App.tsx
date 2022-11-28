@@ -4,6 +4,7 @@ import {BrowserRouter as Router, Routes, Route,Outlet} from 'react-router-dom'
 import './App.css'
 import ListCars from './List'
 import Car from './Car'
+import {FaCar } from  'react-icons/fa'
 
 
 
@@ -27,7 +28,7 @@ function App() {
 function Layout() {
   return (
     <div>
-      <h1>Cars</h1>
+      <span style={{fontSize:'2em', fontWeight:'bold'}}>Cars</span><FaCar style={{float:'right',fontSize:'25px'}}/>
       <hr/>
         <Outlet />
     </div>

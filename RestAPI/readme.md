@@ -5,7 +5,7 @@
 This small rest api sample contains two project. 
 
 * Server - this is an ExpressJS implementation with a 'Cars' route
-* Client - This is a ReactJS implementation using React Router, Vite, and Typescript
+* Client - This is a ReactJS implementation using React Router, Custom Hooks, Vite, in Typescript
 
 
 ### Screenshots
@@ -17,8 +17,9 @@ Detail
 ### Todo
 - [x] Implement Edit
 - [x] Implement Delete
-- [ ] Server Side Bug (Sometimes the server stop responding)
+- [x] Save search state (using a custom hook, and storing to localStorage)
 - [ ] Upgrade server's typescript engine
-- [ ] Add some icons
-  - [ ] actions (save and remove buttons)
-  - [ ] Home (when on detail mode)
+- [x] Debounce search to reduce http requests (created a useDebounce custom hook!)
+- [x] Add some icons
+  - [x] Save and Remove buttons
+  - [x] Home (when on detail mode)

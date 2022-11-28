@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
+import useStorage from './useStorage'
 import './List.css'
+import useDebounce from './useDebounce'
 
 
 type  Car = {
@@ -20,7 +22,9 @@ type  Car = {
 
 
 function ListCars() {
-  const [search, setSearch] = useState('');
+  const [search, setSearch] = useStorage('search','');
+  const searchDebounced = useDebounce(search,500);
+  
   const [cars, setCars] = useState([]);
 
   useEffect(()=>{
@@ -30,14 +34,14 @@ function ListCars() {
       setCars(data);
     }
     requestData();
-  },[search]);
+  },[searchDebounced]);
 
   return (
     <div className="App">
       <div>
           <div style={{display:'flex',justifyContent:'right', margin: '20px 0' }}>
             <label style={{padding:'10px'}}>Search</label>
-            <input onChange={(e:React.ChangeEvent<HTMLInputElement>)=>{setSearch(e.target.value ?? '' )}} />
+            <input value={search} onChange={(e:React.ChangeEvent<HTMLInputElement>)=>{setSearch(e.target.value ?? '' )}} />
           </div>
         <table className='list'>
           <thead><tr><th>Name</th><th>Origin</th><th>Year</th></tr></thead>
