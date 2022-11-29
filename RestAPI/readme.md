@@ -2,7 +2,7 @@
 # RestAPI
 
 ### Description
-This small rest api sample contains two project. 
+This small rest api sample contains two projects. 
 
 * Server - this is an ExpressJS implementation with a 'Cars' route
 * Client - This is a ReactJS implementation using React Router, Custom Hooks, Vite, in Typescript
